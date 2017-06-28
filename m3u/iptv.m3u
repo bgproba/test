@@ -1,6 +1,1 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="http://i67.tinypic.com/4ui78x.png" group-title="LABEL",* FLUXUS TV
 https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u
-#EXTINF:-1 group-title="TEST",* TEST
-https://raw.githubusercontent.com/momadoncheva/test/master/m3u/final2.m3u
