@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1,group-title="WORLD",ALL
+#EXTINF:-1,
 https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u
