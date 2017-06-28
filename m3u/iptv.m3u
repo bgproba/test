@@ -1,1 +1,4 @@
+#EXTM3U
 
+#EXTINF:-1,BTV
+https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u
