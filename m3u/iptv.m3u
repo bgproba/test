@@ -1,4 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1,group-title="GLOBAL",TEST
-145.239.108.17:6500/get.php?username=joseph354&password=tgb25Qkd&type=m3u
+#EXTINF:0,TV Channel
+#EXTGRP:News
+https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u
+
+#EXTINF:0 group-title="Sports",Sports channel
+https://raw.githubusercontent.com/momadoncheva/test/master/m3u/final2.m3u
