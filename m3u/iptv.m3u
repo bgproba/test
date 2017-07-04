@@ -3,6 +3,7 @@
 #EXTINF:0,TV Channel
 #EXTGRP:News
 https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u
-
+echo $m3u;
 #EXTINF:0 group-title="Sports",Sports channel
 https://raw.githubusercontent.com/momadoncheva/test/master/m3u/final2.m3u
+echo $m3u;
